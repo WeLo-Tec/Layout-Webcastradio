@@ -1,4 +1,4 @@
-Webcastradio3 ist ein Standard 3 Spalten Layout inkl. Slider.
+Webcastradio3 ist ein Standard 3 Spalten Layout inkl. Slider, für ilch 2.0
 
 Besonderheiten:
 Auf der Startseite wird direkt unter dem Slider der Radiostatus angezeigt
